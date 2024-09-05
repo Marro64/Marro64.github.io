@@ -17,6 +17,8 @@ I've also created [this post][post] which is markdown and generated as a post (t
 
 page.dir seems to work in both cases where the page is not generated from a post, but returns empty in both cases where the page is generated from a post. For testing I've commented out the permalink setting in _config.yml or remove just the category part, but this did not fix the issue.
 
+This happens both in Jekyll 3.10.0 that GitHub Pages uses and Jekyll 4.3.3 which I use for testing.
+
 The source for this site is over at [https://github.com/Marro64/Marro64.github.io](https://github.com/Marro64/Marro64.github.io)
 
 [portfolio]: {{ site.url }}/portfolio
