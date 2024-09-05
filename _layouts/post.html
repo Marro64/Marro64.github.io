@@ -2,7 +2,9 @@
 layout: default
 ---
 
-<a href="{{ "/" | relative_url }}">{{ site.theme_config.back_home_text }}</a>
-<h1 class="post-title">{{ page.title }}</h1>
+<a href="{{ page.dir }}">&lt; {{ page.dir }}</a>
+<h1 class="post-title">{{ page.title }}{{ page.dir }}</h1>
 {% include date_and_social_share.html %}
+
+<span>{{ page.dir }} {{ page.title }}</span>
 {{ content }}

@@ -69,8 +69,16 @@
     color: var(--text-tertiary);
 }
 
-.brand-text {
-    color: var(--text-secondary)
+a.brand-expanded-href .brand-text {
+    color: var(--text-secondary);
+}
+
+a.brand-expanded-href:hover span {
+    color: var(--links);
+}
+
+a.brand-expanded-href:active span {
+    color: var(--share-text);
 }
 
 @media screen and (max-width:480px) {
