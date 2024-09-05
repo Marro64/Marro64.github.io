@@ -16,3 +16,7 @@ layout: default
 
 <h2>{{ site.theme_config.home.title_old_projects }}</h2>
 {% include card_list.html collection=site.data.home.old_project_entries %}
+
+<span> Here is a test of page.dir on a webpage which isn't generated from a markdown file. Here it seems to work fine.<br><br></span>
+<span> The part inbetween square brackets should show the contents of page.dir ([/] in this case): [{{ page.dir }}]<br><br></span>
+<span> And as a control variable, the part inbetween square brackets should show the contents of page.url ([/portfolio] in this case): [{{ page.url }}]</span>
