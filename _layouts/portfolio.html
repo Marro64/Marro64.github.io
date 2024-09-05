@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<a href="{{ "/" | relative_url }}">{{ site.theme_config.back_home_text }}</a>
+
+<header>
+  <div class="title">
+    <span class="upper-title">Marro64's</span>
+    <h1>Portfolio</h1>
+  </div>
+</header>
+
+<h2>{{ site.theme_config.home.title_projects }}</h2>
+{% include card_list.html collection=site.data.home.project_entries %}
+
+<h2>{{ site.theme_config.home.title_old_projects }}</h2>
+{% include card_list.html collection=site.data.home.old_project_entries %}

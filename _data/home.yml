@@ -1,12 +1,15 @@
 navbar_entries:
-  - title: about
+  - title: About
     url: about
 
-  - title: blog
+  - title: Blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: Portfolio
+    url: portfolio
+
+  - title: Contact
+    url: contact
 
 project_entries:
   - title: Project 1

@@ -1,0 +1,48 @@
+- name: email
+  url: mailto:hello@marro.dev
+  icon: ic:baseline-email
+  color: '#bfbfbf'
+  displayName: email
+  text: hello@marro.dev
+  description: Feel free to email me!
+
+- name: linkedin
+  url: https://www.linkedin.com/in/marinus-bos/
+  icon: mdi:linkedin
+  color: '#0a66c2'
+  displayName: LinkedIn
+  text: Marinus Bos
+  description: My more professional side. I'm still not very familiar with LinkedIn.
+
+- name: github
+  url: https://github.com/Marro64
+  icon: mdi:github
+  color: '#bfbfbf'
+  displayName: GitHub
+  text: Marro64
+  description: A catalog of my programming projects.
+
+- name: discord
+  url: https://discord.com/users/295100414771068928
+  icon: ic:baseline-discord
+  color: '#5865f2'
+  displayName: Discord
+  text: Marro64 (@marro64)
+  description: My personal Discord. Please contact me first through my email. Since Discord has a spam problem, I'll likely ignore your friend request if I don't know you.
+
+
+- name: twitter
+  url: https://twitter.com/Marro64_/
+  icon: mdi:twitter
+  color: '#1D9BF0'
+  displayName: Twitter (now known as X)
+  text: Marro64 (@Marro64_)
+  description: Not very active.
+
+- name: youtube
+  url: https://www.youtube.com/@marro643
+  icon: ri:youtube-fill
+  color: '#FF0000'
+  displayName: YouTube
+  text: Marro64 (@marro643)
+  description: A few random videos.
