@@ -3,7 +3,7 @@ author: Marro64
 url: https://marro.dev # root address of the site
 description: > # description of the site (multiple lines allowed)
   Welcome to my crib. Here's where I collect stuff I do. My interests include virtual reality, computer logic and design, programming, 3D printing and electronics. 
-permalink: /:slugified_categories/:slug
+permalink: /:categories/:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 
