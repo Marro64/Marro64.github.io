@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: [project, arduino]
+tags: [project, arduino, 3D printing]
 
 carousels:
   - images: 
