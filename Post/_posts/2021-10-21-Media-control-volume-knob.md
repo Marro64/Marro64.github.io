@@ -11,6 +11,8 @@ carousels:
     - image: /assets/images/2021-10-21-volume-knob/Volumeknob_small.jpg
 ---
 
+Update 2024-09-05: I've published the [Arduino holder and bottom plate to Printables][holder], and published the [code to GitHub][code]. 
+
 I've always wanted to have a physical volume knob for my PC, mainly for those times you're playing a full-screen game and you don't want to alt-tab out of it. So when I saw [this video][Video] by Prusa, I knew I had to build it. Even though this was a relatively small project, my inexperience in building stuff made me hesitant. It didn't help that I did not yet have a 3D printer when I saw this video. So, I got my 3D printer, waited for the electronics to arrive from China and found the time and energy to start building.
 
 ![Photo of the volume knob showing the red base with a black knob with a rhombus texture pattern.](/assets/images/2021-10-21-volume-knob/Volumeknob_small.jpg)
@@ -29,8 +31,6 @@ The video and article do not show how to put all the components inside of the bu
 On the software side of things, I was not very impressed with the example code they provided. Of course it was just a simple example and they encouraged us to modify it, but I ended up rewriting the whole thing. My version includes support for acelleration, which makes it so rotating the knob a lot has an exponentional effect. Mine also supports different actions for rotation while pushing the button, which required me to work around the limited library they used. Lastly it allows you to set it to only send a command every few virtual clicks, as my encoder sends 4 pulses for every 1 physical click.
 
 All with all, this was a fun project. I did not expect to have to modify so much, but it made it all the more enjoyable. Maybe I'll make a v2 someday, featuring RGB??
-
-Update 2024-09-05: I've published the [Arduino holder and bottom plate to Printables][holder], and published the [code to GitHub][code]. 
 
 [Video]: https://www.youtube.com/watch?v=LKxvuphif7A
 [knob]: https://www.prusaprinters.org/prints/4737-media-control-volume-knob-knurled-knob
