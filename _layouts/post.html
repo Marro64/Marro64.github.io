@@ -2,7 +2,9 @@
 layout: default
 ---
 
-<a href="{{ "/" | site.url }}">&lt; Home</a>
+{% include horizontal_list.html collection=site.data.home.navbar_entries %}
+<div class="dashed"></div>
+
 <h1 class="post-title">{{ page.title }}</h1>
 {% include date_and_social_share.html %}
 

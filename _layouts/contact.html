@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-<a href="{{ "/" | relative_url }}">{{ site.theme_config.back_home_text }}</a>
+{% include horizontal_list.html collection=site.data.home.navbar_entries %}
+<div class="dashed"></div>
 
 <header>
   <div class="title no-margin-bottom">
