@@ -30,7 +30,7 @@ On the software side of things, I was not very impressed with the example code t
 
 All with all, this was a fun project. I did not expect to have to modify so much, but it made it all the more enjoyable. Maybe I'll make a v2 someday, featuring RGB??
 
-Update 2024-09-05: I've uploaded the [Arduino holder to Printables][holder]! I'd post the custom code and other 3D files as well, but unfortunately they are on a hard drive I do not have access to at this time and I didn't share or archive them at the time. I'll try to remember to upload them someday.
+Update 2024-09-05: I've published the [Arduino holder and bottom plate to Printables][holder], and published the [code to GitHub][code]. 
 
 [Video]: https://www.youtube.com/watch?v=LKxvuphif7A
 [knob]: https://www.prusaprinters.org/prints/4737-media-control-volume-knob-knurled-knob
@@ -38,3 +38,4 @@ Update 2024-09-05: I've uploaded the [Arduino holder to Printables][holder]! I'd
 [plate]: https://www.prusaprinters.org/prints/5682-stronger-bottom-plate-for-the-volume-knob
 [cable guide]: https://www.prusaprinters.org/prints/5149-media-control-cable-clamp-and-bottom-plate
 [holder]: https://www.printables.com/model/997298-arduino-pro-micro-holder-for-media-control-volume
+[code]: https://github.com/Marro64/HIDRotaryEncoder
