@@ -15,6 +15,7 @@ layout: default
 
 <h2>{{ site.theme_config.home.title_projects }}</h2>
 {% include card_list.html collection=site.data.home.project_entries %}
+<a href="{{ "/Portfolio/" | relative_url }}"><span>More..</span></a>
 
 {% if site.theme_config.show_misc_list == true %}
   <h2>{{ site.theme_config.home.title_misc_list }}</h2>
@@ -25,11 +26,10 @@ layout: default
 {% include post_list.html length=5 %}
 <a href="{{ "/Blog/" | relative_url }}"><span>More..</span></a>
 
-<h2>{{ site.theme_config.home.title_old_projects }}</h2>
-{% include card_list.html collection=site.data.home.old_project_entries %}
+<br>
 
 
-<footer>
+<!-- <footer>
   <div class="dashed"></div>
   {% include horizontal_list.html collection=site.data.home.footer_entries %}
-</footer>
+</footer> -->
