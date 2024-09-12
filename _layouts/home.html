@@ -15,7 +15,7 @@ layout: default
 
 <h2>{{ site.theme_config.home.title_projects }}</h2>
 {% include card_list.html collection=site.data.home.project_entries %}
-<a href="{{ "/Portfolio/" | relative_url }}"><span>More..</span></a>
+<a href="{{ "/portfolio" | relative_url }}"><span>More..</span></a>
 
 {% if site.theme_config.show_misc_list == true %}
   <h2>{{ site.theme_config.home.title_misc_list }}</h2>
@@ -24,7 +24,7 @@ layout: default
 
 <h2>Recent {{ site.theme_config.home.title_blog }} Posts</h2>
 {% include post_list.html length=5 %}
-<a href="{{ "/Blog/" | relative_url }}"><span>More..</span></a>
+<a href="{{ "/blog" | relative_url }}"><span>More..</span></a>
 
 <br>
 
