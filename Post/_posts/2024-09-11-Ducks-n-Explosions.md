@@ -15,7 +15,7 @@ The game is available on [itch.io](https://marro64.itch.io/ducks-n-explosions)
           back to the pond."
 ```
 
-![Screenshot of the game](/assets/images/{{ page.slug }}/screenshot-1.png)
+![Screenshot of the game](/assets/images/{{ page.slug | slugify }}/screenshot-1.png)
 
 My main responsibility was the code, while Tjeerd made the assets and school layout. The code was written in C# as is the norm for [Unity](https://unity.com/), the graphics were made in [Blender](https://www.blender.org/) and the sound was implemented using [FMOD](https://www.fmod.com/) as required by the assignment.
 
@@ -23,7 +23,7 @@ The main concept of the game was inspired by games where you do not have direct 
 
 A major feature of the game is that just about everything is explodable, and there are multiple rooms who's only purpose is to be a sandbox for explosions. This is based in the idea that a game has to be enjoyable even without an objective to be truly fun for the player.
 
-![Screenshot of the editor](/assets/images/{{ page.slug }}/screenshot-editor.png)
+![Screenshot of the editor](/assets/images/{{ page.slug | slugify }}/screenshot-editor.png)
 
 Since the game was made in only a few weeks with other courses taking up time, it is rough around the edges. With more time I'd have added a hint as to how to deal with the guard and camera transitions to indicate when an important event happens. I'd have made the control of the duck less frustrating through more iteration and a smarter AI, starting with a system where it responds to a bomb while it is still flying towards him.
 
