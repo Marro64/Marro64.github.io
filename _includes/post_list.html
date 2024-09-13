@@ -1,6 +1,6 @@
 {% if site.posts.size > 0 %}
   <ul>
-    {% for post in site.posts limit:include.length %}
+    {% for post in site.posts limit:include.length+1 %}
       {% unless post.hidden==true %}
         <li class="post-list-item" id="{{ post.url }}">
           <span class="home-date">
