@@ -1,7 +1,7 @@
 {% if site.posts.size > 0 %}
   <span>length: {{ include.length }}</span>
   <ul>
-    {% for post in site.posts limit:include.length %}
+    {% for post in site.posts limit:5 %}
       {% unless post.hidden==true %}
         <li class="post-list-item" id="{{ post.url }}">
           <span class="home-date">

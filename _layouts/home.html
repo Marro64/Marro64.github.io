@@ -17,13 +17,13 @@ layout: default
 {% include card_list.html collection=site.data.home.project_entries %}
 <a href="{{ "/portfolio" | relative_url }}"><span>More..</span></a>
 
-{% if site.theme_config.show_misc_list == true %}
+<!-- {% if site.theme_config.show_misc_list == true %}
   <h2>{{ site.theme_config.home.title_misc_list }}</h2>
   {% include vertical_list.html collection=site.data.home.misc_entries %}
-{% endif %}
+{% endif %} -->
 
 <h2>Recent {{ site.theme_config.home.title_blog }} Posts</h2>
-{% include post_list.html length=5 %}
+{% include post_list_short.html length=5 %}
 <a href="{{ "/blog" | relative_url }}"><span>More..</span></a>
 
 <br>
