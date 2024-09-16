@@ -5,7 +5,7 @@ title: Ducks 'n Explosions
 
 Ducks 'n Explosions is a game made by me and Tjeerd Verscheuren in a few weeks as the final assingment in the Interactive Media module. It is a game made in Unity when you throw bombs at a duck to guide it towards exiting a school it somehow got locked inside. The duck is explosion-proof, so don't worry about his safety. However he is also not very smart, and does not much more than run away from explosions. He'll pick up any item he runs over, and he'll drop it if he gets caught in an explosion. The exit is locked and there's a guard in the way who will scare away the duck, so you'll have to think outside the box to manage an escape.
 
-The game is available on [itch.io](https://marro64.itch.io/ducks-n-explosions)
+The game is available on [itch.io](https://marro64.itch.io/ducks-n-explosions) (play online here!)
 
 ```
 "While looking for food and leftovers,
