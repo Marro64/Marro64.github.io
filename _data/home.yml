@@ -14,15 +14,41 @@ navbar_entries:
     url: contact
 
 project_entries:
+  - title: KinovaGaze
+    url: /post/kinovagaze-gaze-controlled-robotic-arm
+    desc: Using gaze to control an assistive robotic arm for people with motor disabilities
+    highlight: THESIS
+
   - title: Virtual Haven
     url: /post/virtual-haven-minidoc
-    desc: A minidoc about the Trans Academy
-    # highlight: TBA
+    desc: A minidoc about the Trans Academy, a safe online space for the trans community
+    highlight: WATCH
+
+  - title: Ducks 'n Explosions
+    url: /post/ducks-n-explosions
+    desc: A game made in Unity with an unconventional player control system
+    highlight: PLAY ONLINE
 
 old_project_entries:
+  - title: Dots and Boxes
+    url: /post/dots-and-boxes-object-oriented-programming
+    desc: A server, client and AI to play Dots and Boxes written to a profesisonal standard
+
+  - title: Plug n Pi game
+    url: /post/plug-n-pi-game
+    desc: A game with server connectivity including a web interface and accounts
+  
+  - title: Minecraft Digital Numeric Input
+    url: /post/minecraft-digital-numeric-input
+    desc: A numeric input build in Minecraft using computer logic
+
   - title: HID Volume Knob
     url: /post/media-control-volume-knob
-    desc: A simple volume knob
+    desc: A simple volume knob made using Arduino with custom 3D printed parts
+
+  - title: University projects
+    url: /post/university-projects
+    desc: A collection of projects for university courses with code available on GitHub
 
 footer_entries:
   - title: Home
