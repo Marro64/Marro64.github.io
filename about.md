@@ -1,10 +1,14 @@
 ---
 layout: post
-title: About Marro64
+title: About MarroDev
 ---
 
-Hi! I'm Marro64, a self-proclaimed nerd who's interested in a wide variety of topics. I've learned a lot of things from binging YouTube, and I'm now working to put some of this knowledge into practice. I've just finished my bachelor Creative Technology at the University of Twente and I am now looking for a job in the region of Enschede, Netherlands. Looking to hire? Feel free to check out my [LinkedIn](https://www.linkedin.com/in/marinus-bos/) or mail me at [hello@marro.dev](mailto:hello@marro.dev).
+Hi! I'm Marro, a self-proclaimed nerd who's interested in a wide variety of topics. I earned a bachelor in Creative Technology at the University of Twente and I now work in Software Development and User Experience Design under my company MarroDev. Looking to contract a .NET/C# dev with interests in UX desgin? Feel free to mail me at [hello@marro.dev](mailto:hello@marro.dev) or check out my [LinkedIn](https://www.linkedin.com/in/marinus-bos/). I can work remotely or physically in the region of Enschede.
 
-Currently my main hobby is Virtual Reality, you can find me in VRChat sometimes, although right now I'm usually busy working on projects for VR instead. I currently live in Enschede, though I'm frequently at my mom's place instead. This means I have 2 computer setups to take care of, each limited in its own way. At my mom's place I've also got a 3D printer that I've had to study inside-out to get working nicely. My other interests include low-level computing and electronics, I'd like to do more with these interests are they're currently mostly theoretical knowledge and little practical experience. This also goes for my interest in retro games, I'm more curious about studying them than actually playing them.
+ My main hobby is Virtual Reality, you can often find me in VRChat or working on projects for it. I currently live in Enschede with my partner. My other interests include low-level computing and electronics, as well as retro games. My company name *MarroDev* and my online name *Marro64* originated as *marrobot*, which is a combination of the first 3 letters of my first name and the word *robot* which I thought up when I was about 9. At some later point I decided to shorten the name to *Marro* as I thought it sounded nicer, and added *64* for my online name because of my interest in retro games, and because I thought it sounded cool. Any references to plumbers wearing a red hat are purely coincidental.
 
-My online name *Marro64* originated as *marrobot*, which is a combination of the first 3 letters of my first name and the word *robot* which I thought up when I was about 9. At some later point I decided to shorten the name to *Marro* as I thought it sounded nicer, and added *64* because of my interest in retro games, and because I thought it sounded cool. Any references to plumbers wearing a red hat are purely coincidental.
+Company Info:
+- Name: MarroDev
+- Kvk-nummer (company id): 42074897
+- Btw-id (tax id): NL005474882B98
+- Contact: [hello@marro.dev](mailto:hello@marro.dev)
